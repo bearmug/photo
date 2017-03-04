@@ -4,7 +4,7 @@ var imageResize = require('gulp-image-resize');
 gulp.task('default', function () {
     gulp.src('images/fulls/*')
         .pipe(imageResize({
-            width: 1024,
+            width: 1366,
             imageMagick: true
         }))
         .pipe(gulp.dest('images/fulls'));
