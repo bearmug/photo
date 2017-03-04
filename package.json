@@ -1,14 +1,14 @@
 {
-  "name": "photography",
+  "name": "photo",
   "version": "1.3.0",
-  "description": "A jekyll website for photographer cum developer",
+  "description": "PhotograpHi! site",
   "main": "npmfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramswaroop/photography.git"
+    "url": "git+https://github.com/bearmug/photo.git"
   },
   "keywords": [
     "photography",
@@ -19,12 +19,12 @@
     "portfolio",
     "portfolio website"
   ],
-  "author": "Ram Patra",
+  "author": "Bearmug",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ramswaroop/photography/issues"
+    "url": "https://github.com/bearmug/photo/issues"
   },
-  "homepage": "https://github.com/ramswaroop/photography#readme",
+  "homepage": "https://bearmug.github.io/photo",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-image-resize": "^0.12.0",
